@@ -5,7 +5,6 @@ summa = number1 + number2
 
 print(summa)
 
-
 number3 = int(input('Введите третье число:'))
 
 if number3 > 10:
