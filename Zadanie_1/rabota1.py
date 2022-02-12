@@ -17,6 +17,6 @@ else:
     while number4 < 10:
         number5 = number4 + number3
         print(number4)
-        number4+=1
+        number4 += 1
         if number4 == 10:
             print('Ваше число стало равно 10')
