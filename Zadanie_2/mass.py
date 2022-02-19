@@ -38,7 +38,7 @@ print(hash("my_set_2"))
 my_set.add("my_set")
 print(my_set)
 
-my_voc = { 1 : 'value', 'printer' : 3, 'price': 400 }
+my_voc = { 1 : 'value', 'printer' : 3, 'price': 400}
 my_voc['xerox'] = 55
 my_voc['printer'] = 200
 
