@@ -47,7 +47,7 @@ print('res4 = ', res4)
 
 
 
-def myfunc4(n1, n2 = 1):
+def myfunc4(n1, n2 = 2):
     res = ' '.join(n1) * n2
     return res
 

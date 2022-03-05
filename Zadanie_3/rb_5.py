@@ -18,3 +18,4 @@ def stroka():
         print('Общий результат', res)
 
 stroka()
+
